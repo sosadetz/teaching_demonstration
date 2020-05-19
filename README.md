@@ -3,7 +3,7 @@
 
 This repository contains a few examples of the materials I use to teach students how to code. To start the workshop, simply click on the "Launch Binder" button below. This will open your own Jupyter Notebook, that you can use to study ngrams across I number of corpora.
 
-*CLICK HERE:*
+<b>CLICK HERE:</b>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sosadetz/teaching_demonstration/master)
 
