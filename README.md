@@ -1,7 +1,7 @@
 ## Teaching Demonstration Materials - Stephen Osadetz
 ## John Cabot University - May 21, 2020
 
-This repository contains a few examples of the materials I use to teach students how to code. To start the workshop, simply click on the "Launch Binder" button below. This will open your own Jupyter Notebook, that you can use to study ngrams across I number of corpora.
+This repository contains a few examples of the materials I use to teach students how to code. To start the workshop, simply click on the "Launch Binder" button below. After about a minute, this will open your own Jupyter Notebook, that you can use to study ngrams across I number of corpora.
 
 <b>CLICK HERE:</b>
 
