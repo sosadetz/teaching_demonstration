@@ -17,4 +17,6 @@ I'll keep this git repo available for a few days after my demonstration, along w
 
 This lesson's code uses Python 3.7 with the nltk, matplotlib, os, glob, and collections modules. I'll also make use of Jupyter Lab, Binder, Tableau Public, and of course Google's Ngram Viewer.
 
-At the beginning of the lesson, I'll make referencet to an excellent article <a href='https://litlab.stanford.edu/LiteraryLabPamphlet11.pdf'>"Canon/Archive: Large-scale Dynamtics in the Literary Field"</a> by Mark Algee-Hewitt et al. Refer to page 6 for his discussion of the graph that inspired this lesson. 
+At the beginning of the lesson, I'll make reference to the excellent article <a href='https://litlab.stanford.edu/LiteraryLabPamphlet11.pdf'>"Canon/Archive: Large-scale Dynamtics in the Literary Field"</a> by Mark Algee-Hewitt et al. Refer to page 6 for his discussion of the graph that inspired this lesson, but note that, rather than ngram variance, he calls the crucial measure "redundancy," and as a result, his graph is flipped.
+
+The main graph we will discuss can be found here: https://public.tableau.com/profile/stephen8554#!/vizhome/collected_corpora_simple_counting_results/Sheet1?publish=yes. I recommend you use the button in the bottom-right corner of the visualization to make it full-screen, as this will help to distinguish among the data points.
