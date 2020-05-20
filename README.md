@@ -17,6 +17,6 @@ At the beginning of the lesson, I'll make reference to the excellent article <a 
 
 The main graph we will discuss can be found here: <a href='https://public.tableau.com/profile/stephen8554#!/vizhome/collected_corpora_simple_counting_results/Sheet1?publish=yes'>Word and Ngram Variance - A Simple Visualization</a>. I recommend you use the button in the bottom-right corner of the visualization to make it full-screen, as this will help to distinguish among the data points. You'll have to click on the small "highlight" icon beside the "groups" legend to make each group selectable.
 
-I'll keep this git repo available for a few days after my demonstration, along with the associated Binder version of the Jupyter Notebook. This will allow you to come back, reopen the notebook, and tinker with the code yourself. Please don't hesitate to send me an e-mail if you have any questions. I can be reached at osadetz@fas.harvard.edu.
+I'll keep this repository available for a few days after my demonstration, along with the associated Binder version of the Jupyter Notebook. This will allow you to come back, reopen the notebook, and tinker with the code yourself. Please don't hesitate to send me an e-mail if you have any questions. I can be reached at osadetz@fas.harvard.edu.
 
 This lesson's code uses Python 3.7 with the nltk, matplotlib, os, glob, and collections modules. I'll also make use of Jupyter Lab, Binder, Tableau Public, and of course Google's Ngram Viewer.
